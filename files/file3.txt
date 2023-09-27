@@ -1,0 +1,4 @@
+This is a sample text with words and special characters like !@#$%^&*(),.?":{}|<>
+It also contains some   extra   spaces     and   tabs.
+
+This is another line.
